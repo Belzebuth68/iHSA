@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-int M_PI=3.14157;
+//int M_PI=3.14157;
 
 namespace Benchmark {
 double f(const Solution& solution, int num)
